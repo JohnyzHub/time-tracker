@@ -16,7 +16,7 @@ public class Tracker {
     }
 
     public void remove(TimeEntry entry) {
-        entries.remove(entry);
+        /entries.remove(entry);
     }
 
     public int size() {
