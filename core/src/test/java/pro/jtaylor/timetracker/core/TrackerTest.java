@@ -26,7 +26,7 @@ public class TrackerTest {
     @Test
     public void testAdd() {
         TimeEntry entry = new TimeEntry();
-        entry.setDescription("Entry Test");
+        entry.setDescription("Entry Best");
         entry.setRate(80.0f);
         entry.setTime(3);
         tracker.add(entry);
